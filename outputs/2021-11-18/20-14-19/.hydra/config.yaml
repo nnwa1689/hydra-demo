@@ -1,0 +1,9 @@
+db:
+  driver: mysql
+  user: omry
+  password: secret
+  ab: 123
+db2:
+  driver: sqlserver
+  user: user
+  password: fkk

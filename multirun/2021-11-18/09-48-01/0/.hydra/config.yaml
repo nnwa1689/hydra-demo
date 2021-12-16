@@ -1,0 +1,8 @@
+db:
+  driver: mysql
+  user: ua
+  password: pa
+db2:
+  driver: sqlserver
+  user: user
+  password: fuck
